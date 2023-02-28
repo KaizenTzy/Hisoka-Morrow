@@ -10,18 +10,18 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://api.lolhuman.xyz': 'apikey Lhu',
+	'https://api.lolhuman.xyz': '891c747917b366c6c2986ebb',
 	'https://api.dapuhy.ga': 'regis dulu',
 	'https://zenzapi.xyz': 'regis dulu',
 }
 
 // Other
-global.owner = ['6288292024190','62882920241908']
-global.packname = 'Hisoka Morrow'
+global.owner = ['601140438510']
+global.packname = 'KurumiBot'
 global.author = '\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
 global.sessionName = 'hisoka'
 global.connVersion = [2, 2142, 12]
-global.prefa = '!'
+global.prefa = '.'
 global.sp = '⭔'
 global.mess = {
     admin: 'Fitur Khusus Admin Group!',
